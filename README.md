@@ -1,6 +1,6 @@
 # EECS_738_Project_1
 
-This is Andre Kurait and Surabhi Khachar's first project for EECS 738, Machine Learning. For the project one, we built a K-Means algorithm using Python and tested it on datasets from Kaggle. 
+This is Andre Kurait and Surabhi Khachar's first project for EECS 738, Machine Learning. For the project one, we built a K-Means algorithm using Python and tested it on datasets from Kaggle.
 
 The project requirements were the following:
 
@@ -17,3 +17,11 @@ programmatically
 7. Commit your source code, documentation and other
 supporting files to the git repository in GitHub
 
+The data chosen for this project was from the Iris dataset and Horse Colic dataset.
+https://www.kaggle.com/uciml/horse-colic
+https://www.kaggle.com/uciml/iris
+
+Feature Engineering:
+
+K-Means Algorithm:
+The algorithm we constructed is a basic algorithm to identify clusters given a certain set of features. It follows the discussion in this article: https://www.kaggle.com/andyxie/k-means-clustering-implementation-in-python
