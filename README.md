@@ -17,8 +17,10 @@ programmatically
 7. Commit your source code, documentation and other
 supporting files to the git repository in GitHub
 
+<h1>Data</h1>
 The data chosen for this project was from the Iris dataset and Horse Colic dataset.
 https://www.kaggle.com/uciml/horse-colic
+
 https://www.kaggle.com/uciml/iris
 
 <h1>Feature Engineering:</h1>
