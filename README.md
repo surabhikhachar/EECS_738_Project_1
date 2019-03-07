@@ -21,7 +21,7 @@ The data chosen for this project was from the Iris dataset and Horse Colic datas
 https://www.kaggle.com/uciml/horse-colic
 https://www.kaggle.com/uciml/iris
 
-Feature Engineering:
+<h1>Feature Engineering:</h1>
 
-K-Means Algorithm:
+<h1>K-Means Algorithm:</h1>
 The algorithm we constructed is a basic algorithm to identify clusters given a certain set of features. It follows the discussion in this article: https://www.kaggle.com/andyxie/k-means-clustering-implementation-in-python
