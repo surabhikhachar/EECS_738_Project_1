@@ -1,6 +1,6 @@
-# EECS_738_Project_1
+# EECS 738 Project 1
 
-This is Andre Kurait and Surabhi Khachar's first project for EECS 738, Machine Learning. For the project one, we built a K-Means algorithm using Python and tested it on datasets from Kaggle.
+This is Andre Kurait and Surabhi Khachar's first project for EECS 738, Machine Learning in Spring 2019. For the project one, we built a K-Means algorithm using Python and tested it on datasets from Kaggle.
 
 The project requirements were the following:
 
@@ -20,9 +20,9 @@ supporting files to the git repository in GitHub
 <h1>Data</h1>
 The data chosen for this project was from the Iris dataset and Horse Colic dataset.
 
-https://www.kaggle.com/uciml/horse-colic
-
 https://www.kaggle.com/uciml/iris
+
+https://www.kaggle.com/uciml/horse-colic
 
 <h1>Feature Engineering:</h1>
 
