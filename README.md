@@ -21,10 +21,13 @@ supporting files to the git repository in GitHub
 The data chosen for this project was from the Iris dataset and Horse Colic dataset.
 
 https://www.kaggle.com/uciml/iris
+  - Trying to predict species based on different properties of the flowers 
+  - Sepal length, sepal width, petal length, petal width
 
 https://www.kaggle.com/uciml/horse-colic
+  - Predicting survival of a horse based on its medical conditions
+  - Key features include pain, respiratory_rate, rectal_temp, abdominal_distention
 
-<h1>Feature Engineering:</h1>
 
 <h1>K-Means Algorithm:</h1>
 The algorithm we constructed is a basic algorithm to identify clusters given a certain set of features. It follows the discussion in this article: https://www.kaggle.com/andyxie/k-means-clustering-implementation-in-python
