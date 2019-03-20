@@ -18,8 +18,8 @@ programmatically
 supporting files to the git repository in GitHub
 
 <h1>Data</h1>
-The data chosen for this project was from the Iris dataset and Horse Colic dataset.
-
+The data chosen for this project was from the Iris dataset and Biomechanical Features dataset.
+<br>
 https://www.kaggle.com/uciml/iris
   - Trying to predict species based on different properties of the flowers 
   - Sepal length, sepal width, petal length, petal width
