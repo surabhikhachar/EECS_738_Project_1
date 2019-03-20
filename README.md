@@ -24,10 +24,10 @@ https://www.kaggle.com/uciml/iris
   - Trying to predict species based on different properties of the flowers 
   - Sepal length, sepal width, petal length, petal width
 
-https://www.kaggle.com/uciml/horse-colic
-  - Predicting survival of a horse based on its medical conditions
-  - Key features include pain, respiratory_rate, rectal_temp, abdominal_distention
+https://www.kaggle.com/uciml/biomechanical-features-of-orthopedic-patients
+  - Various biomechanical features of orthopedic patients such as pelvic radius, pelvic incidence, lumbar lordosis angle
+  - Trying to classify patients based on if they have Disk Hernia or Spondylolisthesis (abnormal) or if they don't have either (normal)
 
 
 <h1>K-Means Algorithm:</h1>
-The algorithm we constructed is a basic algorithm to identify clusters given a certain set of features. It follows the discussion in this article: https://www.kaggle.com/andyxie/k-means-clustering-implementation-in-python
+The algorithm we constructed is a basic algorithm to identify clusters given a certain set of features. It follows the discussion in this article: http://benalexkeen.com/k-means-clustering-in-python/
