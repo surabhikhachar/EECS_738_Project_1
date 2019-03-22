@@ -30,4 +30,4 @@ https://www.kaggle.com/uciml/iris
 
 <h1>K-Means Algorithm:</h1>
 The algorithm we constructed is a basic algorithm to identify clusters given a certain set of features. It follows the discussion in this article: http://benalexkeen.com/k-means-clustering-in-python/
-An implementation of the algorithms is in the notebooks folder with a Jupyter notebook for each data set. This allowed us to explore the datasets and perform any feature engineering if necessary prior to building the K-Means clusters. The K-Means algorithm is also written in a Python class which is stored in the 'Python' folder.
+The K-Means algorithm has been written in a .py file and is in the 'Python' folder. The algorithm was then used in the Jupyter notebooks so that we were able to explore the datasets first prior to creating K-Means clusters. By creating a class we were easily able to call it for both datasets.
